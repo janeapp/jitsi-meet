@@ -12,7 +12,7 @@ import {
     isLocalParticipantModerator
 } from '../../../base/participants';
 import MuteEveryoneDialog
-    from '../../../video-menu/components/native/MuteEveryoneDialog';
+from '../../../video-menu/components/native/MuteEveryoneDialog';
 import { close } from '../../actions.native';
 
 import { ContextMenuMore } from './ContextMenuMore';

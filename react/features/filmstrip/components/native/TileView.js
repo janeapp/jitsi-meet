@@ -10,7 +10,7 @@ import type { Dispatch } from 'redux';
 
 import { getLocalParticipant, getParticipantCountWithFake } from '../../../base/participants';
 import PreCallMessage
-    from '../../../base/react/components/native/PreCallMessage';
+from '../../../base/react/components/native/PreCallMessage';
 import { connect } from '../../../base/redux';
 import { setVisibleRemoteParticipants } from '../../actions.web';
 

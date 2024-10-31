@@ -5,7 +5,7 @@ import React, { PureComponent } from 'react';
 import { ColorSchemeRegistry } from '../../base/color-scheme';
 import { ParticipantView, getParticipantById } from '../../base/participants';
 import PreCallMessage
-    from '../../base/react/components/native/PreCallMessage.js';
+from '../../base/react/components/native/PreCallMessage.js';
 import { connect } from '../../base/redux';
 import { DimensionsDetector } from '../../base/responsive-ui';
 import { StyleType } from '../../base/styles';
